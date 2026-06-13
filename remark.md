@@ -7,3 +7,4 @@ https://github.com/go-gost/gost/releases/
 https://github.com/wangyu-/udp2raw/releases
 
 
+https://github.com/jpillora/chisel
